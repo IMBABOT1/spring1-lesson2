@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-@Component
+@Componen
 @Scope("prototype")
 public class Cart {
     private List<Product> products;
